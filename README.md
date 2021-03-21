@@ -10,7 +10,7 @@ The frontend for SmartTrash web app generated with [Angular CLI](https://github.
 Clone the `master` branch of this repository:
 
 ```
-git clone git@bitbucket.org:heartbeat0415/smarttrash-admin.git
+git clone https://github.com/richhaho/smarttrash
 ```
 
 And make `environments` like `environments_template`.
@@ -51,4 +51,4 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 
 ## Licence
 
-&#9400; Heart Beat 2020
+&#9400; Richhaho 2021
