@@ -1,4 +1,4 @@
-# SmartTrash-Frontend
+# SmartTrash-Frontend Angular 9
 
 The frontend for SmartTrash web app generated with [Angular CLI](https://github.com/angular/angular-cli) version 9.0.7.
 
